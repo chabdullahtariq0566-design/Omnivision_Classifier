@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+ConvNeXtTiny,0.8457,0.8485,0.8457,0.8449
+EfficientNetV2B3,0.8303,0.8325,0.8303,0.8301
+MobileNetV3Large,0.8177,0.8193,0.8177,0.8169
+ResNet50V2,0.7537,0.7541,0.7537,0.7528
